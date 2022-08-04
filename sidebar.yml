@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_cluster_grid_search.ipynb
+      - README.md
