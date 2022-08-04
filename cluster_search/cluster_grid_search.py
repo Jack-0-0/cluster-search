@@ -7,7 +7,6 @@ __all__ = ['assign_cluster_labels', 'calculate_silhouette_avg', 'grid_search']
 from sklearn import cluster
 import pandas as pd
 import numpy as np
-#import numpy.typing as npt
 from typing import Union
 from sklearn.base import ClusterMixin
 from sklearn import metrics
