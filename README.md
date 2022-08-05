@@ -10,6 +10,7 @@ You can install via pip with the following command:
 ## Documentation
 
 Documentation can be found [here](https://jack-0-0.github.io/cluster-search/)
+<br /> 
 PyPI site can be found [here](https://pypi.org/project/cluster-search/)
 
 ## An example on how to use
@@ -101,7 +102,7 @@ grid_search(
     cluster_models=cluster_models,
     model_kwargs_list=model_kwargs_list,
     sort=True,
-    highlight=True
+    highlight=False
 )
 ```
 
