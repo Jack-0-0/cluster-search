@@ -3,6 +3,7 @@
 d = { 'settings': { 'audience': 'Developers',
                 'author': 'Jack Rasala',
                 'author_email': 'jack.rasala@nesta.org.uk',
+                'black_formatting': 'True',
                 'branch': 'main',
                 'copyright': 'Put your copyright info here',
                 'custom_sidebar': 'False',
